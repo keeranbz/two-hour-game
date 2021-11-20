@@ -6,5 +6,5 @@ A red block that must avoid collision with generated blocks.
 `./gradlew desktop:dist`
 
 ## Run:
-`java -jar .\desktop\build\libs\desktop-1.0.jar`
+`java -jar desktop/build/libs/desktop-1.0.jar`
 
