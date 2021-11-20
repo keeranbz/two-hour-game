@@ -1,6 +1,9 @@
 # 2-Hour-Game
-A red block that must avoid collision with generated blocks.
-10 collisions and game over.
+A red block must avoid collisions with black blocks.
+
+## Instructions:
+- Use the arrow keys to move.
+- Avoid clashing with black blocks. After 10 clashes the game ends.
 
 ## Build:
 `./gradlew desktop:dist`
